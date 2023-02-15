@@ -91,7 +91,7 @@ const displayRepoInfo = function(repoInfo, languages) {
 };
 
 backButton.addEventListener("click", function(){
-    repoSection.classList.remove = ("hide");
+    repoSection.classList.remove ("hide");
     repoDataElement.classList.add("hide");
     backButton.classList.add("hide");
 });

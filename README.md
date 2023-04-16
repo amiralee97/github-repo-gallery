@@ -1,3 +1,4 @@
+# **Guess The Word Game**
 This is a simple "Guess the Word" game built with JavaScript, HTML, and CSS. The user has to guess a randomly selected word by entering letters until the word is fully revealed. The game provides feedback on correct and incorrect guesses and keeps track of the user's score.
 
 ## **Getting Started**
